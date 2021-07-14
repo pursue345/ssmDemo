@@ -1,0 +1,66 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+
+  <!-- 1.配置Spring 配置位置 -->
+  <context-param>
+    <param-name>contextConfigLocation</param-name>
+    <param-value>classpath:applicationContext.xml</param-value>
+  </context-param>
+
+  <!--可以通过web.xml配置文件实现过滤器，也可通过WebFilter注解实现过滤器-->
+  <!--解决请求乱码问题，或者在 tomcat文件夹下 conf文件夹下的service.xml中 <Connector>标签中添加URIEncoding="UTF-8"-->
+  <!--<filter>
+    <filter-name>characterFilter</filter-name>
+    <filter-class>org.springframework.web.filter.CharacterEncodingFilter</filter-class>
+    <init-param>
+      <param-name>encoding</param-name>
+      <param-value>UTF-8</param-value>
+    </init-param>
+  </filter>
+  <filter-mapping>
+    <filter-name>characterFilter</filter-name>
+    <url-pattern>/*</url-pattern>
+  </filter-mapping>-->
+
+<!--  <filter>-->
+<!--    <filter-name>UserFilter</filter-name>-->
+<!--    <filter-class>com.ssm.filter.UserFilter</filter-class>-->
+<!--  </filter>-->
+<!--  <filter-mapping>-->
+<!--    <filter-name>UserFilter</filter-name>-->
+<!--    <url-pattern>/**</url-pattern>-->
+<!--  </filter-mapping>-->
+
+  <!-- 2.添加Spring的上下文环境监听 -->
+  <listener>
+    <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
+  </listener>
+
+  <!--ssm整合quartz，配置quartz的监听器-->
+  <listener>
+    <listener-class>org.quartz.ee.servlet.QuartzInitializerListener</listener-class>
+  </listener>
+
+  <!-- 3.SpringMvc 配置DispatchServlt的初始化参数，设置文件的路径和文件名称 -->
+  <servlet>
+    <servlet-name>DispatcherServlet</servlet-name>
+    <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+    <!-- 指定SpringMvc配置文件位置 -->
+    <init-param>
+      <param-name>contextConfigLocation</param-name>
+      <param-value>classpath:springmvc.xml</param-value>
+    </init-param>
+    <load-on-startup>1</load-on-startup>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>DispatcherServlet</servlet-name>
+    <!-- 不能写/*，必须写/，这是REST URL风格的要求
+    和springmvc.xml配置静态资源对应起来，需要释放静态资源/ -->
+    <url-pattern>/</url-pattern>
+  </servlet-mapping>
+
+</web-app>

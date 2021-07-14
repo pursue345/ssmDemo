@@ -1,0 +1,252 @@
+[WARN] [2021-07-11 22:00:21][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 22:00:21][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-11 22:00:21][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-11 22:00:21][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-11 22:14:33][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 22:14:33][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-11 22:14:34][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-11 22:14:34][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-11 22:14:54][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 22:14:54][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-11 22:14:54][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-11 22:14:54][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-11 22:16:29][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 22:16:29][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[WARN] [2021-07-11 22:17:58][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 22:17:58][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[WARN] [2021-07-11 22:18:42][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 22:18:42][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-11 22:18:43][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-11 22:18:43][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-11 22:19:49][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 22:19:49][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-11 22:19:49][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-11 22:19:49][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-11 22:37:24][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 22:37:24][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-11 22:37:24][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-11 22:37:24][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-11 22:38:31][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 22:38:31][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-11 22:38:32][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-11 22:38:32][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-11 22:39:54][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 22:39:54][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-11 22:39:54][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-11 22:39:54][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-11 22:40:12][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 22:40:12][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-11 22:40:12][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-11 22:40:12][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-11 22:40:54][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 22:40:55][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-11 22:40:55][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-11 22:40:55][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-11 22:48:51][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 22:48:51][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-11 22:48:52][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-11 22:48:52][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-11 22:53:07][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 22:53:07][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-11 22:53:07][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-11 22:53:07][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-11 23:06:46][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 23:06:46][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-11 23:06:47][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-11 23:06:47][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-11 23:08:47][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 23:08:47][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-11 23:08:47][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-11 23:08:47][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-11 23:09:14][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 23:09:14][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-11 23:09:15][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-11 23:09:15][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-11 23:09:31][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 23:09:31][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-11 23:09:32][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-11 23:09:32][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-11 23:10:09][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 23:10:09][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-11 23:10:09][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-11 23:10:09][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-11 23:19:54][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 23:19:54][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-11 23:19:54][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-11 23:19:54][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-11 23:22:37][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 23:22:37][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-11 23:22:37][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-11 23:22:37][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-11 23:25:37][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 23:25:37][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-11 23:25:37][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-11 23:25:37][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-11 23:30:58][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 23:30:58][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-11 23:30:59][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-11 23:30:59][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-11 23:31:30][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 23:31:30][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-11 23:31:30][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-11 23:31:30][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-11 23:39:34][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 23:39:34][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-11 23:39:34][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-11 23:39:34][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-11 23:40:46][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 23:40:46][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-11 23:40:47][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-11 23:40:47][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-11 23:40:57][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 23:40:57][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-11 23:40:58][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-11 23:40:58][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-11 23:41:37][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 23:41:37][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-11 23:41:38][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-11 23:41:38][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-11 23:47:16][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 23:47:16][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-11 23:47:17][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-11 23:47:17][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-11 23:53:28][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 23:53:28][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-11 23:53:29][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-11 23:53:29][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-11 23:55:39][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 23:55:39][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-11 23:55:39][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-11 23:55:39][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-11 23:57:25][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 23:57:25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-11 23:57:26][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-11 23:57:26][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-11 23:58:09][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-11 23:58:09][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-11 23:58:10][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-11 23:58:10][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-12 00:00:53][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-12 00:00:53][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-12 00:00:53][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-12 00:00:53][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-12 00:04:40][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-12 00:04:41][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-12 00:04:41][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-12 00:04:41][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-12 00:06:45][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-12 00:06:45][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-12 00:06:46][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-12 00:06:46][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-12 00:07:16][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-12 00:07:16][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-12 00:07:17][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-12 00:07:17][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-12 00:08:53][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-12 00:08:53][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-12 00:08:54][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-12 00:08:54][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-12 00:11:00][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-12 00:11:00][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-12 00:11:01][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-12 00:11:01][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-12 00:12:36][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-12 00:12:36][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-12 00:12:37][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-12 00:12:37][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-12 00:15:29][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-12 00:15:29][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-12 00:15:30][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-12 00:15:30][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-12 00:17:18][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-12 00:17:18][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-12 00:17:19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-12 00:17:19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-12 00:17:41][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-12 00:17:41][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-12 00:17:42][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-12 00:17:42][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-12 00:18:19][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-12 00:18:20][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-12 00:18:20][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-12 00:18:20][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-12 00:19:37][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-12 00:19:37][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-12 00:19:38][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-12 00:19:38][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-12 00:23:13][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-12 00:23:13][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-12 00:23:14][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-12 00:23:14][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-12 00:23:42][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-12 00:23:42][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-12 00:23:43][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-12 00:23:43][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-12 00:24:46][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-12 00:24:46][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-12 00:24:47][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-12 00:24:47][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-12 00:24:52][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-12 00:24:52][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-12 00:24:53][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-12 00:24:53][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-12 00:26:23][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-12 00:26:23][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-12 00:26:24][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-12 00:26:24][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-12 00:26:55][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-12 00:26:55][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-12 00:26:56][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-12 00:26:56][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-12 00:27:15][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-12 00:27:15][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-12 00:27:16][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-12 00:27:16][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-12 00:37:36][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-12 00:37:37][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-12 00:37:37][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-12 00:37:37][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-12 00:40:11][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-12 00:40:12][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-12 00:40:12][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-12 00:40:12][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-12 00:40:36][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-12 00:40:36][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-12 00:40:37][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-12 00:40:37][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-12 00:42:31][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-12 00:42:31][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-12 00:42:32][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-12 00:42:32][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-12 00:43:18][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-12 00:43:18][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-12 00:43:19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-12 00:43:19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-12 00:45:01][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-12 00:45:01][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-12 00:45:02][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-12 00:45:02][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-12 00:46:32][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-12 00:46:32][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-12 00:46:33][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-12 00:46:33][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-12 00:48:35][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-12 00:48:36][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-12 00:48:36][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-12 00:48:36][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-12 00:50:31][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-12 00:50:31][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-12 00:50:31][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-12 00:50:31][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-12 00:50:59][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-12 00:50:59][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-12 00:51:00][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-12 00:51:00][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-12 00:52:44][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-12 00:52:44][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-12 00:52:45][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-12 00:52:45][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed
+[WARN] [2021-07-12 00:54:30][com.alibaba.druid.pool.DruidDataSource]removeAbandoned is true, not use in production.
+[INFO] [2021-07-12 00:54:30][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO] [2021-07-12 00:54:31][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closing ...
+[INFO] [2021-07-12 00:54:31][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} closed

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:mvc="http://www.springframework.org/schema/mvc"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd
+        http://www.springframework.org/schema/mvc
+        http://www.springframework.org/schema/mvc/spring-mvc.xsd
+        http://www.springframework.org/schema/aop
+        http://www.springframework.org/schema/aop/spring-aop.xsd">
+
+    <!-- 1.配置扫描控制层包 -->
+    <context:component-scan base-package="com.ssm" />
+
+    <!--开启SpringMVC注解模式  @Controller、@RequestMapping、@PathVariable、@ResponseBody、@ModelAttribute、@SessionAttributes等-->
+    <!-- 简化配置：
+		(1)自动注册DefaultAnootationHandlerMapping,AnotationMethodHandlerAdapter
+		(2)提供一些列：数据绑定，数字和日期的format @NumberFormat, @DateTimeFormat, xml,json默认读写支持
+	-->
+    <mvc:annotation-driven/>
+
+    <!-- 2.配置SpringMvc拦截器  实现拦截器接口，解决响应乱码问题-->
+    <mvc:interceptors>
+        <mvc:interceptor>
+            <!-- 拦截哪些请求 -->
+            <mvc:mapping path="/**"/>
+            <bean class="com.ssm.interceptor.EncodeIntecerceptor"/>
+        </mvc:interceptor>
+        <mvc:interceptor>
+            <!-- 拦截哪些请求 -->
+            <mvc:mapping path="/**"/>
+            <bean class="com.ssm.interceptor.LogerInterceptor"/>
+        </mvc:interceptor>
+    </mvc:interceptors>
+
+    <!--启用Spring MVC的注解开发模式 并设置响应乱码的编码格式-->
+    <!--<mvc:annotation-driven>
+        <mvc:message-converters>
+            <quartzBean class="org.springframework.http.converter.StringHttpMessageConverter">
+                <property name="supportedMediaTypes">
+                    <list>
+                        <value>text/html;charset=utf-8</value>
+                    </list>
+                </property>
+            </quartzBean>
+        </mvc:message-converters>
+    </mvc:annotation-driven>-->
+
+
+    <!--配置静态资源作用：优雅 REST 风格的 URL 不希望带 .html 或 .do 等后缀，
+    而如果将 DispatcherServlet 请求映射配置为"/"，则Spring MVC将捕获Web容器所有的请求，
+    静态资源的请求找不到对应处理器将导致错误-->
+
+    <!--3.放开静态资源  方式1: 指定静态资源放置路径，不进行拦截-->
+    <!--<mvc:resources location="/media/" mapping="/media/**"></mvc:resources>-->
+    <!-- 放开静态资源  方式2: 对进入 DispatcherServlet 的 URL 进行筛查，
+    静态资源由 Web 服务器默认的Servlet 处理，非静态资源的请求，由 DispatcherServlet 处理-->
+    <mvc:default-servlet-handler/>
+    <!-- 开启aop，对类代理 -->
+    <aop:config proxy-target-class="true"></aop:config>
+
+    <!-- 4.配置jsp 显示ViewResolver -->
+    <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+        <property name="viewClass" value="org.springframework.web.servlet.view.JstlView" />
+        <!--指定jsp文件前后缀-->
+        <property name="prefix" value="/WEB-INF/jsp/" />
+        <property name="suffix" value=".jsp" />
+    </bean>
+
+     <!--文件上传：multipartResolver配置 -->
+    <!--<quartzBean id="multipartResolver"
+          class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+        &lt;!&ndash; 编码格式 &ndash;&gt;
+        <property name="defaultEncoding" value="UTF-8"/>
+        &lt;!&ndash; 上传文件大小，单位为字节 &ndash;&gt;
+        <property name="maxUploadSize" value="5242880"/>
+        &lt;!&ndash; 上传文件的临时路径 &ndash;&gt;
+        <property name="uploadTempDir" value="file:/d:/temp"/>
+    </quartzBean>-->
+
+    <!-- 异常处理 -->
+   <!-- <quartzBean
+            class="org.springframework.web.servlet.handler.SimpleMappingExceptionResolver">
+        &lt;!&ndash; 定义默认的异常处理页面，当该异常类型的注册时使用 &ndash;&gt;
+        <property name="defaultErrorView" value="error.jsp"/>
+        &lt;!&ndash; 定义异常处理页面用来获取异常信息的变量名，默认名为exception &ndash;&gt;
+        <property name="exceptionAttribute" value="ex"></property>
+        &lt;!&ndash; 定义需要特殊处理的异常，用类名或完全路径名作为key，异常也页名作为值 &ndash;&gt;
+        <property name="exceptionMappings">
+            <props>
+                &lt;!&ndash; 这里还可以继续扩展对不同异常类型的处理 &ndash;&gt;
+                <prop key="org.apache.shiro.authz.UnauthorizedException">/refuse.jsp</prop>
+            </props>
+        </property>
+    </quartzBean>-->
+</beans>
