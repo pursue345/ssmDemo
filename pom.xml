@@ -64,11 +64,18 @@
       <version>1.2.3</version>
     </dependency>
     <!--C3p0数据源-->
-    <!--<dependency>
+    <dependency>
       <groupId>c3p0</groupId>
       <artifactId>c3p0</artifactId>
       <version>0.9.1.2</version>
-    </dependency>-->
+    </dependency>
+    <!--dbcp连接池-->
+    <dependency>
+      <groupId>org.apache.commons</groupId>
+      <artifactId>commons-dbcp2</artifactId>
+      <version>2.7.0</version>
+    </dependency>
+
     <!--Dao:mybatis-->
     <dependency>
       <groupId>org.mybatis</groupId>
@@ -243,6 +250,18 @@
       <version>1.6.0</version>
     </dependency>-->
 
+    <!--Dom4j-->
+    <dependency>
+      <groupId>org.dom4j</groupId>
+      <artifactId>dom4j</artifactId>
+      <version>2.1.1</version>
+    </dependency>
+      <dependency>
+          <groupId>com.google.code.gson</groupId>
+          <artifactId>gson</artifactId>
+          <version>2.2.4</version>
+          <scope>test</scope>
+      </dependency>
 
 
   </dependencies>
