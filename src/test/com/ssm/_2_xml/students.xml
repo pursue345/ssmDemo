@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="GBK"?>
+<students>
+    <student id="1">
+        <name>张飞</name>
+        <weight>156.9</weight>
+        <score>99</score>
+    </student>
+    <student id="2">
+        <name>赵云</name>
+        <age>35</age>
+        <weight>106.9</weight>
+        <score>98</score>
+    </student>
+    <student id="4">
+        <name>张三</name>
+        <age>45</age>
+        <weight>43</weight>
+        <score>88</score>
+    </student>
+</students>
